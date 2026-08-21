@@ -1,0 +1,3 @@
+.env
+*.tfstate
+secret_keys.json
